@@ -206,7 +206,7 @@ $('.internal-link').smoothScroll({
         if (error) {
             $.ajax({
                 type: "POST",
-                url: "contactusform.php",
+                url: "email.php",
                 data: $("#contactusform").serialize(),
                 success: function (result) {
                     $('input[type=text],textarea').each(function () {

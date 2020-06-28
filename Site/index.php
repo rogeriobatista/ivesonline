@@ -5,8 +5,8 @@
 <!-- Mirrored from frix.themes95.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 14 Jun 2020 17:58:45 GMT -->
 <head>
    <title>Ives - eBooks e Cursos Online</title>
-   <meta name="description" content="eBook Parallax Responsive html5 template">
-   <meta name="keywords" content="ebook, html5, template">
+   <meta name="description" content="eBooks e Cursos Online">
+   <meta name="keywords" content="ebook, dieta, sistema imunológico">
    <meta charset="utf-8">
    <meta name="author" content="rix_designs">
    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
@@ -88,10 +88,9 @@
                   <div class="hero-img-text">
                      <div class="text-hero padding-lr-15 wow fadeInLeft hero-mid-text">
                         <div class="col-md-4 col-sm-5 col-xs-9 text-left zero-padding animated fadeInLeft">
-                           <h1>Fortale&ccedil;a seu Sistema <u>Imunol&oacute;gico</u> e <u>Emagre&ccedil;a</u> com Sa&uacute;de</h1>
-                           <!-- <span>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor aenean massa. -->
-                           </span>
-                           <a class="btn btn-black internal-link zero-lr-margin zero-margin-bottom" href="#buynow">Compre Agora</a>
+                           <h1>Ives Online</h1>
+                           <span>Somos uma plataforma de Cursos e E-books totalmente <u>Online</u></span>
+                           <a class="btn btn-black internal-link zero-lr-margin zero-margin-bottom" href="#about">Saiba mais</a>
                         </div>
                      </div>
                   </div>
@@ -109,7 +108,7 @@
                <div class="col-md-6 author-text margin-top5 text-center">
                   <span class="section-heading  text-black">Quem Somos</span>
                   <div class="sm-text text-uppercase margin-top-btm-1 letter-space3">Ives Online</div>
-                  <p class="med-text margin-top-btm-10 width9 center-col">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor aenean massa. <br><br><span class="text-light">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus donec quam felis viverra nulla ut metus.</span></p>
+                  <p class="med-text margin-top-btm-10 width9 center-col">Somos uma plataforma de e-books e cursos online. <br><br><span class="text-light">Temos a finalidade de incentivar o empreendedorismo e transformar o Brasil atrav&eacute;s de nossos e-books e cursos.</span></p>
                   <img src="images/sign.png" alt=""/>
                   <div class="margin-top5  icons-author text-center">
                      <!-- social media -->
@@ -150,13 +149,13 @@
             <div class="col-md-6 col-sm-6 xs-margin-btm-10 xs-text-center">
                <div class="blog-updates">
                   <div class="img-blog-updates">
-                     <a href="#">
-                        <img src="images/blog1.jpg" alt="">
+                     <a href="/ebooks/jejum-intermitente.php">
+                        <img src="images/ebook-formula-jejum-intermitente.jpg" alt="">
                      </a>
                   </div>
                   <div class="post-details">
-                     <a href="#" class="post-caption">F&oacute;rmula de Jejum Intermitente</a>
-                     <span class="post-author xs-margin-top4">| <strong>Ives Online</strong> | R$ 29.90</span>
+                     <a href="/ebooks/jejum-intermitente.php" class="post-caption">F&oacute;rmula de Jejum Intermitente</a>
+                     <span class="post-author xs-margin-top4">| <strong>Ives Online</strong> | R$ 39.90</span>
                      <p>Protocolo de <strong>dieta</strong> para perda r&aacute;pida de <strong>peso</strong>.</p>
                   </div>
                </div>
@@ -166,13 +165,13 @@
             <div class="col-md-6 col-sm-6 xs-margin-btm-10 xs-text-center">
                <div class="blog-updates">
                   <div class="img-blog-updates">
-                     <a href="#">
-                        <img src="images/blog2.jpg" alt="">
+                     <a href="/ebooks/fortaleca-seu-sistema-imunologico.php">
+                        <img src="images/ebook-fortaleca-seu-sistema-imunologico.jpg" alt="">
                      </a>
                   </div>
                   <div class="post-details">
-                     <a href="#" class="post-caption">Fortale&cedil;a seu Sistema Imunol&oacute;gico</a>
-                     <span class="post-author xs-margin-top4">| <strong>Ives Online</strong> | R$ 29.90</span>
+                     <a href="/ebooks/fortaleca-seu-sistema-imunologico.php" class="post-caption">Fortale&ccedil;a seu Sistema Imunol&oacute;gico</a>
+                     <span class="post-author xs-margin-top4">| <strong>Ives Online</strong> | R$ 39.90</span>
                      <p>Seu <strong>Sistema Imunol&oacute;gico</strong> precisa de um <strong>Impulso</strong>?</p>
                   </div>
                </div>
@@ -195,10 +194,11 @@
                <img src="images/book.png" class="img-responsive wow fadeInLeft" alt="" />
             </div>
             <div class="col-lg-4 col-md-5 col-sm-6 col-md-offset-1">
-               <h1 class="font-oswald">Fortale&ccedil;a seu Sistema <u>Imunol&oacute;gico</u> e <u>Emagre&ccedil;a</u> com Sa&uacute;de</h1>
-               <h3 class="margin-top5">por apenas <span class="price-text">39</span>.90</h3>
-               <a href="https://themeforest.net/item/frix-ebook-parallax/16936949?ref=rix_designs" target="_blank" class="internal-link btn med-btn price-btn margin-top5 margin-right-zero">Compre Agora</a>
-               <p class="med-text  margin-top5">Lorem ipsum dolor sit amet consectetuer adipiscing elit. Commodo ligula eget dolor aenean massa. Aenean commodo consectetuer adipiscing elit ligula eget massa dolor aenean. </p>
+               <h1 class="font-oswald">Promo&ccedil;&atilde;o imperd&iacute;vel</h1>
+               <h3 class="margin-top5">por apenas <span class="price-text">59</span>.90</h3>
+               <a href="#" target="_blank" class="internal-link btn med-btn price-btn margin-top5 margin-right-zero">Compre Agora</a>
+               <a href="/ebooks/promocao.php" class="internal-link btn med-btn price-btn margin-top5 margin-right-zero">Saiba Mais</a>
+               <p class="med-text  margin-top5">Fortale&ccedil;a seu Sistema <u>Imunol&oacute;gico</u> e <u>Emagre&ccedil;a</u> com Sa&uacute;de</p>
               
                <br>
                

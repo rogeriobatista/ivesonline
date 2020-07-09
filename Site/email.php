@@ -3,8 +3,7 @@ $nome = $_POST['name'];
 $email = $_POST['email'];
 $mensagem = $_POST['comment'];
 
-// $to = "contato@ivesonline.com.br";
-$to = "rogerio.silva013@gmail.com";
+$to = "contato@ivesonline.com.br";
 $subject = "Contato da Ives Online";
 
 $message  = "<h1>Mensagem da página Ives Online</h1>";

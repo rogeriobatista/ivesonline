@@ -131,7 +131,11 @@ i { margin: 0 4px; color: #a0a0a0;}
 .ebook-logo { max-width: 109px; }
 nav { width: 100%; z-index: 99; top: 0px;}
 nav .container{ height: 80px; display: table-cell; vertical-align: middle; position: relative; }
-.nav-white.shrink-nav .navbar-nav li a { color: #5b5a5a}
+.navbar-nav li a { font-size: 16px !important; }
+.navbar-nav li .promotion { color: #eb6834 !important; border: 1px solid #eb6834; padding: 3px; }
+.navbar-nav li .promotion:hover { border: 1px solid #eb6834 !important; background-color: #eb6834 !important; color: #fff !important; }
+.navbar-nav li .promotion.active { border: 1px solid #eb6834 !important; background-color: #eb6834 !important; color: #fff !important; }
+.nav-white.shrink-nav .navbar-nav li a { color: #5b5a5a }
 .shrink-nav .container { height: 59px; }
 .nav-white.fixed-nav .navbar-nav li a:hover  { border-bottom-color: #000}
 .nav-white.shrink-nav .navbar-nav li a:hover { border-bottom-color: #000; color: #000;}
